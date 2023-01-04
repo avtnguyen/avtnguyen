@@ -6,11 +6,11 @@ I'm Anh Nguyen and I am Ph.D. grad in Chemical Engineering with a focus on Compu
 
 ### Hi there 👋, my name is Anh
 #### Data Scientist and Simulation Researcher
-![Data Scientist and Simulation Researcher](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Data Scientist and Simulation Researcher]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/avtnguyen/avtnguyen/blob/main/github_banner.png)
 
  I am Ph.D. grad in Chemical Engineering with a focus on Computational Simulation from The University of Toronto. During my Ph.D. studies, I discovered my love for data science and using data-driven models to solve complex problems. You can check out my projects for more details.
  
-Skills: Data Science / Machine Learning / Physic-based modeling / Python / SQL
+Skills: Data Science / Machine Learning / Research / Python / SQL
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning dtes 
