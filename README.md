@@ -4,10 +4,14 @@ I am Ph.D. grad in Engineering from The University of Toronto. During my Ph.D. s
  
 ## Skills and Experience:
 * 📊 Data Science
-* 🔬 Applied Machine Learning
+* 🔬 Applied Machine Learning 
 * 💻 Python, R, SQL, Matlab
 * 💡 Research & Engineering
 
-
+## Completed Projects:
+* 🐇 [Customer churn prediction](https://github.com/avtnguyen/customer-churn-predictions) 
+* 🐬 [Sentiment analysis on customer reviews](https://github.com/avtnguyen/sentiment-analysis-customer-reviews)
+* 🐅 [Image classification with Convolutional neural network](https://github.com/avtnguyen/image-classification-mlp-cnn)
+* 🐩 [Oil spill ML detection model](https://github.com/avtnguyen/Oil-Spill-Detection-ML-Model)
 
 
