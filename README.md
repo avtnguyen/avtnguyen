@@ -4,11 +4,11 @@ I am Ph.D. grad in Engineering from The University of Toronto. During my Ph.D. s
  
 ## Skills and Experience:
 * 📊 Data Science
-* 🔬 Applied Machine Learning 
 * 💻 Python, R, SQL, Matlab
 * 💡 Research & Engineering
 
 ## Completed Projects:
+* 📆 [Automating Vegan Days & Lunar Holidays in Google Calendar via Web Scraping](https://github.com/avtnguyen/VeganCalendarReminder)
 * 🐇 [Customer churn prediction](https://github.com/avtnguyen/customer-churn-predictions) 
 * 🐬 [Sentiment analysis on customer reviews](https://github.com/avtnguyen/sentiment-analysis-customer-reviews)
 * 🐅 [Image classification with Convolutional neural network](https://github.com/avtnguyen/image-classification-mlp-cnn)
